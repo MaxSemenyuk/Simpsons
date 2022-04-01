@@ -1,0 +1,33 @@
+body{
+    background: #c0c0c0;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    background: #fdd41f;
+    color: #037dc2;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    background: #ef4141;
+}
+
+ul {
+    background: silver;
+    color: brown
+}
+
+p {
+    background: aquamarine;
+    color: black;
+    font-style: italic
+}
+a {
+    color: blue;
+}
+
+img {
+     width: 200px
+}
